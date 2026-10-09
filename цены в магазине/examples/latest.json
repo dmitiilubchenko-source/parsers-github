@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-10-05T21:20:56.299925+03:00",
+  "basket_id": "43c5c6d38c14f529ae41cd8acd361c54e994b5c4b88979b1eedec34b9786c234",
+  "items": 56,
+  "confirmed": 56,
+  "status": "complete",
+  "observed_dates": [
+    "2026-10-05"
+  ],
+  "mrot": 27093,
+  "target_budget": 6773.25,
+  "total_rub": 6773.22,
+  "confirmed_subtotal_rub": 6773.22,
+  "within_budget": true,
+  "missing_products": [],
+  "errors": [],
+  "next_collection_date": "2026-10-12",
+  "note": "One fixed product per food group; package cost checks budget, kg/l prices are stored separately. Prices may leave the original budget range in future weeks; never replace SKUs automatically."
+}

@@ -1,0 +1,15 @@
+{
+  "airport_types": [],
+  "require_complete": false,
+  "include_icao": [],
+  "exclude_icao": [],
+  "fields": [
+    "_id", "icao_code",
+    "name", "facility_type", "airline_service", "status", "timezone",
+    "country_code", "country_name", "region_code", "region_name",
+    "location_text",
+    "latitude_deg", "longitude_deg", "elevation_ft", "elevation_m",
+    "runways_count", "runways", "runway_surfaces", "routes"
+  ],
+  "formats": ["json", "csv", "ndjson"]
+}

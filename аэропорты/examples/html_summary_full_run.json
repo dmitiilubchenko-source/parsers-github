@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-01T14:20:45+00:00",
+  "records": 10508,
+  "status_rows": 10508,
+  "successful": 10508,
+  "failed": 0,
+  "formats": {
+    "json": "airports_html.json",
+    "status": "html_scrape_status.csv"
+  }
+}

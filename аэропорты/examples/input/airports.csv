@@ -1,0 +1,21 @@
+﻿id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,icaыo_code,iata_code,gps_code,local_code,home_link,wikipedia_link,keywords
+7977,16A,small_airport,Nunapitchuk Airport,60.905591,-162.440454,12,NA,US,US-AK,Nunapitchuk,yes,PPIT,NUP,PPIT,16A,,https://en.wikipedia.org/wiki/Nunapitchuk_Airport,
+14173,7KA,small_airport,Tatitlek Airport,60.871449,-146.690297,62,NA,US,US-AK,Tatitlek,yes,PAKA,TEK,PAKA,7KA,,https://en.wikipedia.org/wiki/Tatitlek_Airport,AK47
+15640,9A3,small_airport,Chuathbaluk Airport,61.579102,-159.216003,244,NA,US,US-AK,Chuathbaluk,yes,PACH,CHU,PACH,9A3,,https://en.wikipedia.org/wiki/Chuathbaluk_Airport,
+324756,AAD,small_airport,Adado Airport,6.095802,46.6375,1001,AF,SO,SO-GA,Adado,no,HCAD,AAD,HCAD,,,https://en.wikipedia.org/wiki/Adado_Airport,Cadaado Airport
+42257,AE-0001,small_airport,Batha Airport,24.214693,51.44989,257,AS,SA,SA-04,Batha,yes,OEBT,,OEBT,,,,"Ras Sumeira UAE,"
+340192,AE-0026,small_airport,Al Qaffay Airport,24.58956,51.727293,21,AS,AE,AE-AZ,Al Qaffay,no,OMQF,,OMQF,,,,
+348685,AE-0091,small_airport,Lower Yasat Island Airport,24.18884,51.99655,,AS,AE,AE-AZ,Al-Yasat,no,OMAY,,,OMAY,,,
+351840,AE-0128,small_airport,Liwa Air Base,23.65128,53.82444,422,AS,AE,AE-AZ,Zayed City,no,OMLW,,OMLW,,,https://en.wikipedia.org/wiki/Al-Safran_Air_Base,
+516263,AE-0221,medium_airport,Sas Al Nakheel Air Base,24.44128,54.51696,14,AS,AE,AE-AZ,Sas Al Nakheel,no,OMNK,,OMNK,,,,
+300646,AEI,heliport,Algeciras Heliport,36.12882,-5.441079,98,EU,ES,ES-AN,Algeciras,yes,LEAG,,LEAG,,https://www.aena.es/en/algeciras.html,https://en.wikipedia.org/wiki/Algeciras_Heliport,
+35370,AF-0019,heliport,Toorghodi Heliport,35.222198,62.2906,2600,AS,AF,AF-HER,Kara Tapa,no,OATD,,,,,,
+35371,AF-0020,small_airport,Andkhoy Airport,36.942659,65.206746,900,AS,AF,AF-FYB,Andkhoy,no,OAAK,,OAAK,,,,Andkhoi
+35375,AF-0021,small_airport,Logar Airport,33.9865,69.023102,6333,AS,AF,AF-LOW,,no,OALG,,OALG,,,,
+35377,AF-0023,small_airport,Muqur Airport,32.879601,67.848602,6600,AS,AF,AF-GHA,Muqur,no,OAMK,,OAMK,,,,
+35380,AF-0024,small_airport,Panjab Airport,34.391726,67.020445,8800,AS,AF,AF-BAM,Panjab,no,OAPJ,,OAPJ,,,,"Panyab, Panjao, Pan Jao"
+35383,AF-0025,small_airport,Taywarah Airport,33.54309,64.42542,7370,AS,AF,AF-GHO,Taywarah,no,OATW,,OATW,,,https://en.wikipedia.org/wiki/Taywara_Airport,"Teh Wareh, Tewara, Taywara"
+336537,AG-0001,medium_airport,Burton-Nibbs International Airport,17.621194,-61.798347,28,NA,AG,AG-10,Codrington,yes,TAPB,BBQ,TAPB,,,https://en.wikipedia.org/wiki/Burton%E2%80%93Nibbs_International_Airport,"Barbuda International Airport, New Barbuda Airport"
+301649,AGAF,small_airport,Afutara Aerodrome,-9.191389,160.948611,23,OC,SB,SB-ML,Bila,no,AGAF,AFT,AGAF,,,https://en.wikipedia.org/wiki/Afutara_Airport,
+302290,AGAR,small_airport,Ulawa Airport,-9.86054358262,161.979546547,40,OC,SB,SB-MK,Arona,no,AGAR,RNA,AGAR,,,https://en.wikipedia.org/wiki/Ulawa_Airport,
+35172,AGAT,small_airport,Uru Harbour Airport,-8.87333,161.011002,,OC,SB,SB-ML,Atoifi,no,AGAT,ATD,AGAT,,,https://en.wikipedia.org/wiki/Uru_Harbour_Airport,

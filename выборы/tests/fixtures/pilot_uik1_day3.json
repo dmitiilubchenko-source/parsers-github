@@ -1,0 +1,55 @@
+{
+  "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/453?commissionClassifierId=7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc&date=2026-09-20",
+  "data": {
+    "reportType": "453",
+    "id": "d0c04eb4-c6df-4620-96a6-9aa5fd35748f",
+    "createdAt": "2026-09-20T18:00:18.464903+03:00",
+    "body": {
+      "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+      "reportTimes": [
+        "18:00:00",
+        "15:00:00",
+        "12:00:00",
+        "10:00:00"
+      ],
+      "commissionClassifiers": [
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "10:00:00",
+          "votersCount": 1850,
+          "votersPercent": 83.56
+        },
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "12:00:00",
+          "votersCount": 1856,
+          "votersPercent": 83.83
+        },
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "15:00:00",
+          "votersCount": 1874,
+          "votersPercent": 84.64
+        },
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "18:00:00",
+          "votersCount": 1880,
+          "votersPercent": 84.88
+        }
+      ]
+    }
+  }
+}

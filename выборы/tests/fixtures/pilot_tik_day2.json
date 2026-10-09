@@ -1,0 +1,143 @@
+{
+  "url": "http://apps.cikrf.ru/service/ik-inp-service-pbcopy/reports/453?commissionClassifierId=f5af0e13-c5ca-492e-9c27-81dc9dc6d495&date=2026-09-19",
+  "data": {
+    "reportType": "453",
+    "id": "c4d6f9d8-3dfb-4263-9e08-4846211c3d60",
+    "createdAt": "2026-09-19T20:00:43.446124+03:00",
+    "body": {
+      "commissionClassifierId": "f5af0e13-c5ca-492e-9c27-81dc9dc6d495",
+      "reportTimes": [
+        "20:00:00",
+        "15:00:00"
+      ],
+      "commissionClassifiers": [
+        {
+          "commissionClassifierId": "f5af0e13-c5ca-492e-9c27-81dc9dc6d495",
+          "commissionClassifierType": "4",
+          "number": 1,
+          "name": "Адыгейская",
+          "time": "15:00:00",
+          "votersCount": 5345,
+          "votersPercent": 46.59
+        },
+        {
+          "commissionClassifierId": "f5af0e13-c5ca-492e-9c27-81dc9dc6d495",
+          "commissionClassifierType": "4",
+          "number": 1,
+          "name": "Адыгейская",
+          "time": "20:00:00",
+          "votersCount": 7863,
+          "votersPercent": 68.55
+        },
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "15:00:00",
+          "votersCount": 1096,
+          "votersPercent": 49.5
+        },
+        {
+          "commissionClassifierId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+          "commissionClassifierType": "5",
+          "number": 1,
+          "name": "УИК №1",
+          "time": "20:00:00",
+          "votersCount": 1552,
+          "votersPercent": 70.1
+        },
+        {
+          "commissionClassifierId": "652f6f65-12b7-4f36-a9ea-32226c007d1b",
+          "commissionClassifierType": "5",
+          "number": 2,
+          "name": "УИК №2",
+          "time": "15:00:00",
+          "votersCount": 1095,
+          "votersPercent": 40.02
+        },
+        {
+          "commissionClassifierId": "652f6f65-12b7-4f36-a9ea-32226c007d1b",
+          "commissionClassifierType": "5",
+          "number": 2,
+          "name": "УИК №2",
+          "time": "20:00:00",
+          "votersCount": 1727,
+          "votersPercent": 63.14
+        },
+        {
+          "commissionClassifierId": "b0584e70-9288-4584-8d14-9c5070a62d6f",
+          "commissionClassifierType": "5",
+          "number": 3,
+          "name": "УИК №3",
+          "time": "15:00:00",
+          "votersCount": 1322,
+          "votersPercent": 45.32
+        },
+        {
+          "commissionClassifierId": "b0584e70-9288-4584-8d14-9c5070a62d6f",
+          "commissionClassifierType": "5",
+          "number": 3,
+          "name": "УИК №3",
+          "time": "20:00:00",
+          "votersCount": 2043,
+          "votersPercent": 70.06
+        },
+        {
+          "commissionClassifierId": "f4472365-9a47-405b-844b-3f6883aebf1d",
+          "commissionClassifierType": "5",
+          "number": 4,
+          "name": "УИК №4",
+          "time": "15:00:00",
+          "votersCount": 912,
+          "votersPercent": 48.0
+        },
+        {
+          "commissionClassifierId": "f4472365-9a47-405b-844b-3f6883aebf1d",
+          "commissionClassifierType": "5",
+          "number": 4,
+          "name": "УИК №4",
+          "time": "20:00:00",
+          "votersCount": 1330,
+          "votersPercent": 70.0
+        },
+        {
+          "commissionClassifierId": "21f69ec4-f438-4849-8027-a5a5486c9a63",
+          "commissionClassifierType": "5",
+          "number": 5,
+          "name": "УИК №5",
+          "time": "15:00:00",
+          "votersCount": 368,
+          "votersPercent": 52.5
+        },
+        {
+          "commissionClassifierId": "21f69ec4-f438-4849-8027-a5a5486c9a63",
+          "commissionClassifierType": "5",
+          "number": 5,
+          "name": "УИК №5",
+          "time": "20:00:00",
+          "votersCount": 472,
+          "votersPercent": 67.33
+        },
+        {
+          "commissionClassifierId": "3fe9be42-8af9-4ea7-a14e-32db10054e6e",
+          "commissionClassifierType": "5",
+          "number": 6,
+          "name": "УИК №6",
+          "time": "15:00:00",
+          "votersCount": 552,
+          "votersPercent": 54.98
+        },
+        {
+          "commissionClassifierId": "3fe9be42-8af9-4ea7-a14e-32db10054e6e",
+          "commissionClassifierType": "5",
+          "number": 6,
+          "name": "УИК №6",
+          "time": "20:00:00",
+          "votersCount": 739,
+          "votersPercent": 73.61
+        }
+      ]
+    }
+  }
+}

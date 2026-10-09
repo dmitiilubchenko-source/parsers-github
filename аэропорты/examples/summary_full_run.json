@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-10-05T18:33:17+00:00",
+  "source_records": 86067,
+  "exported_records": 10508,
+  "excluded_without_valid_icao": 75559,
+  "types": {
+    "small_airport": 5339,
+    "medium_airport": 3577,
+    "heliport": 403,
+    "large_airport": 1171,
+    "seaplane_base": 18
+  },
+  "statuses": {
+    "open": 10508
+  },
+  "missing_icao": 0,
+  "missing_timezone": 0,
+  "records_with_source_gaps": 453,
+  "formats": [
+    "csv",
+    "json",
+    "toml",
+    "yaml"
+  ],
+  "scope": "Only records with valid ICAO codes in the supplied OurAirports snapshot, including closed facilities; no claim of independent world census.",
+  "null_policy": "Absent source fields are null/empty, never invented. TOML omits null-valued keys.",
+  "timezone_method": "IANA timezone inferred from coordinates, not UTC offset."
+}

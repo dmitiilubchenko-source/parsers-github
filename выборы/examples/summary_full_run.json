@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-10-05T18:09:08.995795+00:00",
+  "catalog_uiks": 91381,
+  "exported_uiks": 91381,
+  "statuses": {
+    "complete": 89132,
+    "missing": 2249
+  },
+  "federal_districts": {
+    "Вне подтверждённого перечня федеральных округов": 2582,
+    "Дальневосточный федеральный округ": 6459,
+    "Приволжский федеральный округ": 20992,
+    "Северо-Западный федеральный округ": 8207,
+    "Северо-Кавказский федеральный округ": 4651,
+    "Сибирский федеральный округ": 12080,
+    "Уральский федеральный округ": 7264,
+    "Центральный федеральный округ": 19957,
+    "Южный федеральный округ": 9189
+  },
+  "retry": {
+    "requested": 2249,
+    "saved": 0,
+    "error_count": 2249,
+    "error_log": "retry_errors.json"
+  },
+  "district_mapping_source": "https://rosstat.gov.ru/storage/mediabank/приказ%20№%20519_5.5.2.pdf",
+  "notes": [
+    "Rows include every catalog UIK, even missing reports; empty is not zero.",
+    "ИКСРФ/ОИК/ТИК names follow positions in the saved commission tree; full path retained.",
+    "Extra-territorial and unmatched regions have a separate explicit bucket."
+  ]
+}

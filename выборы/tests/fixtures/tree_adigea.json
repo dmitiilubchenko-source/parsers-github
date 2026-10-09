@@ -1,0 +1,242 @@
+{
+  "root": {
+    "id": 587813924,
+    "externalId": "f0130cef-663a-4c57-b8ff-17054f8fa34e",
+    "name": "ЦИК России",
+    "type": 0,
+    "number": 0,
+    "classifierMatch": true,
+    "protocol1Signed": true,
+    "protocol2Signed": true,
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 587815957,
+        "externalId": "2220fe28-9406-4756-b6ed-88bdd9d1001a",
+        "name": "Республика Адыгея (Адыгея)",
+        "parentId": 587813924,
+        "type": 2,
+        "number": 1,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      }
+    ]
+  },
+  "f5af0e13-c5ca-492e-9c27-81dc9dc6d495": {
+    "id": 588146191,
+    "externalId": "f5af0e13-c5ca-492e-9c27-81dc9dc6d495",
+    "name": "Адыгейская",
+    "parentId": 587815083,
+    "type": 4,
+    "number": 1,
+    "protocol1Signed": true,
+    "protocol2Signed": true,
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 588190578,
+        "externalId": "7c0e12f5-ed9c-4a14-8784-ccfa7aa5f1cc",
+        "name": "УИК №1",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 1,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      },
+      {
+        "id": 588190609,
+        "externalId": "652f6f65-12b7-4f36-a9ea-32226c007d1b",
+        "name": "УИК №2",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 2,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      },
+      {
+        "id": 588190591,
+        "externalId": "b0584e70-9288-4584-8d14-9c5070a62d6f",
+        "name": "УИК №3",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 3,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      },
+      {
+        "id": 588190584,
+        "externalId": "f4472365-9a47-405b-844b-3f6883aebf1d",
+        "name": "УИК №4",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 4,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      },
+      {
+        "id": 588190597,
+        "externalId": "21f69ec4-f438-4849-8027-a5a5486c9a63",
+        "name": "УИК №5",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 5,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      },
+      {
+        "id": 588190603,
+        "externalId": "3fe9be42-8af9-4ea7-a14e-32db10054e6e",
+        "name": "УИК №6",
+        "parentId": 588146191,
+        "type": 5,
+        "number": 6,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": false
+      }
+    ]
+  },
+  "2220fe28-9406-4756-b6ed-88bdd9d1001a": {
+    "id": 587815957,
+    "externalId": "2220fe28-9406-4756-b6ed-88bdd9d1001a",
+    "name": "Республика Адыгея (Адыгея)",
+    "parentId": 587813924,
+    "type": 2,
+    "number": 1,
+    "protocol1Signed": true,
+    "protocol2Signed": true,
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 587815083,
+        "externalId": "dcaa84e9-b49d-4977-9b63-262e5c52a449",
+        "name": "Республика Адыгея (Адыгея) – Адыгейский",
+        "parentId": 587815957,
+        "type": 3,
+        "number": 1,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      }
+    ]
+  },
+  "dcaa84e9-b49d-4977-9b63-262e5c52a449": {
+    "id": 587815083,
+    "externalId": "dcaa84e9-b49d-4977-9b63-262e5c52a449",
+    "name": "Республика Адыгея (Адыгея) – Адыгейский",
+    "parentId": 587815957,
+    "type": 3,
+    "number": 1,
+    "protocol1Signed": true,
+    "protocol2Signed": true,
+    "isDegPermitted": false,
+    "hasChildren": true,
+    "children": [
+      {
+        "id": 588146191,
+        "externalId": "f5af0e13-c5ca-492e-9c27-81dc9dc6d495",
+        "name": "Адыгейская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 1,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146199,
+        "externalId": "b9dcf14c-d1d5-4bfe-b5eb-7be3f7771d98",
+        "name": "Гиагинская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 2,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146193,
+        "externalId": "937a7727-d445-4912-a53c-affb6a960ea8",
+        "name": "Кошехабльская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 3,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146185,
+        "externalId": "a3273eaf-8e1c-444c-9ca8-d30dbe5e92fb",
+        "name": "Красногвардейская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 4,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146195,
+        "externalId": "5839b67e-e834-4609-8ee5-047e72e9f24b",
+        "name": "Майкопская городская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 5,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146197,
+        "externalId": "47709add-71f0-428d-8fc2-d276f6d7308b",
+        "name": "Майкопская районная",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 6,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146187,
+        "externalId": "b7b61193-32c8-4217-9a2f-50fdb20422ad",
+        "name": "Тахтамукайская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 7,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146189,
+        "externalId": "9ba50464-95e1-4b5a-8b00-55740df513fd",
+        "name": "Шовгеновская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 8,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      },
+      {
+        "id": 588146201,
+        "externalId": "21fce4f8-6221-4096-85b5-4b9633b455e2",
+        "name": "Теучежская",
+        "parentId": 587815083,
+        "type": 4,
+        "number": 9,
+        "protocol1Signed": true,
+        "protocol2Signed": true,
+        "hasChildren": true
+      }
+    ]
+  }
+}

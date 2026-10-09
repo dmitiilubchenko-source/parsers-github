@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local state and large generated files
+cache/
+browser_profile/
+**/data/**
+!**/data/README.md
+**/output/**
+!**/output/README.md
+**/outputs/**
+!**/outputs/README.md
+basket_progress.json
+*.log
+*.sqlite*
+*.tmp
+.env
+.env.*
+Thumbs.db
+.DS_Store
+
+# Small, versioned test inputs
+!**/tests/fixtures/local_input/data/
+!**/tests/fixtures/local_input/data/**

@@ -1,0 +1,4 @@
+﻿id,airport_ref,airport_ident,type,description,frequency_mhz
+75303,35371,AF-0020,ACC,Khabul Centre,118.3
+75304,35371,AF-0020,ACC,Khabul Centre,120.9
+75305,35371,AF-0020,ATF,,125.2

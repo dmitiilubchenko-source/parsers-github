@@ -1,0 +1,736 @@
+year = 2026
+mrot = 27093
+budget_fraction = 0.25
+tolerance = 0.05
+mrot_source = "https://base.garant.ru/10180093/"
+store_id = "metro_moscow_leningradskoe_71g"
+store_address = "Москва и область, Ленинградское ш., 71Г"
+created_at = "2026-10-05T21:20:19.734232+03:00"
+
+[[items]]
+product_id = "69291"
+section = "Бакалея"
+group = "Варенье и мёд"
+name = "Джем Махеевъ абрикосовый, 400г"
+url = "https://online.metro-cc.ru/products/dzhem-maheev-abrikosovyy-400g"
+source_category = "Каталог товаров / Бакалея, консервация / Каталог товаров / Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "400г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "232777"
+section = "Бакалея"
+group = "Консервы и соленья"
+name = "Капуста морская маринованная Русское море по-корейски, 200г"
+url = "https://online.metro-cc.ru/products/200g-kapusta-morskaya-marinov-russkoe-more-po-koreyski"
+source_category = "Рыба, икра, морепродукты"
+source_category_url = "https://online.metro-cc.ru/category/rybnye"
+price_unit = "/шт"
+package = "200г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "82764"
+section = "Бакалея"
+group = "Крупы и бобовые"
+name = "Крупа манная Makfa, 450г"
+url = "https://online.metro-cc.ru/products/450g-krupa-makfa-mannaya"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "450г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "469190"
+section = "Бакалея"
+group = "Макароны"
+name = "Лапша быстрого приготовления Доширак Квисти Курица, 70г"
+url = "https://online.metro-cc.ru/products/lapsha-doshirak-kvisti-kurica-70g-5sht"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "70г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "584311"
+section = "Бакалея"
+group = "Мука и выпечка"
+name = "Разрыхлитель теста Dr.Bakers с ароматом ванили, 16г"
+url = "https://online.metro-cc.ru/products/razryhlitel-testa-droetker-s-aromatom-vanili-16g"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "16г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "205305"
+section = "Бакалея"
+group = "Прочая бакалея"
+name = "METRO Chef Сахарная пудра, 300г"
+url = "https://online.metro-cc.ru/products/300g-pudra-saharnaya-metro-chef"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "300г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "327476"
+section = "Бакалея"
+group = "Растительное масло"
+name = "Масло подсолнечное Ideal рафинированное дезодорированное, 1л"
+url = "https://online.metro-cc.ru/products/maslo-podsolnechnoye-ideal-rafinirovannoye-dezodorirovannoye-1l-327476"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "1л"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "133197"
+section = "Бакалея"
+group = "Сахар и соль"
+name = "Сахар ванильный Dr.Bakers Professional, 500г"
+url = "https://online.metro-cc.ru/products/sahar-vanilnyy-droetker-professional-500g"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "500г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "289230"
+section = "Бакалея"
+group = "Соусы и специи"
+name = "Бульон Maggi Домашний с курицей, 75г"
+url = "https://online.metro-cc.ru/products/bulyon-maggi-domashniy-s-kuritsey-75g"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "75г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "125734"
+section = "Готовая еда и полуфабрикаты"
+group = "Готовая еда"
+name = "Каша Creative Kitchen рисовая, 250г"
+url = "https://online.metro-cc.ru/products/250g-kasha-risovaya-creative-kitchen"
+source_category = "Готовая еда"
+source_category_url = "https://online.metro-cc.ru/category/gotovye-bljuda-polufabrikaty"
+price_unit = "/шт"
+package = "250г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "471213"
+section = "Готовая еда и полуфабрикаты"
+group = "Пельмени и вареники"
+name = "Пельмени Останкино замороженные, 500г"
+url = "https://online.metro-cc.ru/products/pelmeni-ostankino-zamorozhennyye-500g"
+source_category = "Готовая еда"
+source_category_url = "https://online.metro-cc.ru/category/gotovye-bljuda-polufabrikaty"
+price_unit = "/шт"
+package = "500г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "146143"
+section = "Готовая еда и полуфабрикаты"
+group = "Пицца"
+name = "Основа для пиццы Pinsa Romana Фреска лунго охлажденная, 200г"
+url = "https://online.metro-cc.ru/products/osnova-dlya-pitstsy-pinsa-romana-freska-lungo-ohlazhdennaya-200g"
+source_category = "Готовая еда"
+source_category_url = "https://online.metro-cc.ru/category/gotovye-bljuda-polufabrikaty"
+price_unit = "/шт"
+package = "200г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "289449"
+section = "Готовая еда и полуфабрикаты"
+group = "Полуфабрикаты"
+name = "Блинчики Останкино с мясом замороженные, 350г"
+url = "https://online.metro-cc.ru/products/blinchiki-ostankino-s-myasom-zamorozhennye-350g"
+source_category = "Замороженные продукты"
+source_category_url = "https://online.metro-cc.ru/category/zamorozhennye-produkty"
+price_unit = "/шт"
+package = "350г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "211460"
+section = "Замороженные продукты"
+group = "Мороженое"
+name = "Мороженое сливочное Филевское Лакомка в шоколадной глазури, 90г"
+url = "https://online.metro-cc.ru/products/morozhenoye-filevskoye-lakomka-slivochnoye-vanilnoye-vo-vzbitoy-shokoladnoy-glazuri-90g"
+source_category = "Замороженные продукты"
+source_category_url = "https://online.metro-cc.ru/category/zamorozhennye-produkty"
+price_unit = "/шт"
+package = "90г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "279914"
+section = "Замороженные продукты"
+group = "Прочая заморозка"
+name = "Fine Life Тесто слоеное дрожжевое замороженное, 500г"
+url = "https://online.metro-cc.ru/products/fine-life-testo-sloenoe-drozhzhevoe-zamorozhennoe-500g"
+source_category = "Замороженные продукты"
+source_category_url = "https://online.metro-cc.ru/category/zamorozhennye-produkty"
+price_unit = "/шт"
+package = "500г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "225173"
+section = "Молочные продукты и яйца"
+group = "Йогурты и десерты"
+name = "Йогурт Актибио натуральный 3.5%, 130г"
+url = "https://online.metro-cc.ru/products/130g-yogurt-35-aktibio-naturalnyy-bzmzh"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "130г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "229632"
+section = "Молочные продукты и яйца"
+group = "Кисломолочные продукты"
+name = "Напиток кисломолочный Actimuno натуральный 1.5%, 95г"
+url = "https://online.metro-cc.ru/products/95g-fnapitok-16-actimuno-naturalnyy-bzmzh"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "95г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "71497"
+section = "Молочные продукты и яйца"
+group = "Молоко и сливки"
+name = "Молоко детское Тема ультрапастеризованное 3.2% с 8 месяцев, 200мл"
+url = "https://online.metro-cc.ru/products/moloko-tema-detskoye-ultrapasterizovannoye-s-8-mesyatsev-3-2-200ml-71497"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "200мл"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "529647"
+section = "Молочные продукты и яйца"
+group = "Прочие молочные продукты"
+name = "Биолакт детский Тема без сахара 3.4% с 8 месяцев, 206г"
+url = "https://online.metro-cc.ru/products/tema-biolakt-bez-sahara-s-8-mesyacev-206g"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "206г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "204024"
+section = "Молочные продукты и яйца"
+group = "Сливочное масло"
+name = "Масло сливочное Простоквашино 72.5%, 180г"
+url = "https://online.metro-cc.ru/products/maslo-slivochnoye-prostokvashino-72-5-180g"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "180г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "329809"
+section = "Молочные продукты и яйца"
+group = "Сыры"
+name = "Сыр Pretto Моцарелла в воде перлини 45%, 180г"
+url = "https://online.metro-cc.ru/products/180g-syr-motsarella-45-pretto-v-vode-perlini-bzmzh"
+source_category = "Сыры"
+source_category_url = "https://online.metro-cc.ru/category/siry"
+price_unit = "/шт"
+package = "180г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "217298"
+section = "Молочные продукты и яйца"
+group = "Творог"
+name = "Биотворог детский Тема Яблоко, персик и банан 4% с 6 месяцев, 95г"
+url = "https://online.metro-cc.ru/products/95g-biotvorog-4-tema-yablokopersikbanan-bzmzh"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "95г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "279249"
+section = "Мясо и птица"
+group = "Ветчина и деликатесы"
+name = "Карбонад Останкино варено-копченый нарезка, 150г"
+url = "https://online.metro-cc.ru/products/karbonad-yubilejnyj-ostankino-narezka-150g"
+source_category = "Колбаса, мясные деликатесы"
+source_category_url = "https://online.metro-cc.ru/category/myasnye-delikatesy"
+price_unit = "/шт"
+package = "150г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "555424"
+section = "Мясо и птица"
+group = "Говядина"
+name = "Бургеры Мираторг из говядины охлажденные, 200г"
+url = "https://online.metro-cc.ru/products/burgery-iz-govyadiny-miratorg-ohlazhdennye-200-g"
+source_category = "Мясо, птица"
+source_category_url = "https://online.metro-cc.ru/category/myasnye"
+price_unit = "/шт"
+package = "200г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "252891"
+section = "Мясо и птица"
+group = "Колбасы и сосиски"
+name = "Колбаса Велком Римини-салями-сальчичон сырокопченый нарезка, 90г"
+url = "https://online.metro-cc.ru/products/90g-kolbasa-riminisalyamisalchichon-velkom-sk-nar"
+source_category = "Колбаса, мясные деликатесы"
+source_category_url = "https://online.metro-cc.ru/category/myasnye-delikatesy"
+price_unit = "/шт"
+package = "90г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "147660"
+section = "Мясо и птица"
+group = "Прочее мясо"
+name = "Паштет из мяса птицы Хаме Деликатесный, 105г"
+url = "https://online.metro-cc.ru/products/pashtet-iz-myasa-ptitsy-hame-delikatesniy-105g"
+source_category = "Колбаса, мясные деликатесы"
+source_category_url = "https://online.metro-cc.ru/category/myasnye-delikatesy"
+price_unit = "/шт"
+package = "105г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "147661"
+section = "Мясо и птица"
+group = "Птица"
+name = "Паштет из индейки Хаме Деликатесный, 105г"
+url = "https://online.metro-cc.ru/products/pashtet-iz-indeyki-hame-delikatesnyy-105g-147661"
+source_category = "Колбаса, мясные деликатесы"
+source_category_url = "https://online.metro-cc.ru/category/myasnye-delikatesy"
+price_unit = "/шт"
+package = "105г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "270337"
+section = "Мясо и птица"
+group = "Свинина"
+name = "Фрикадельки Ближние горки из свинины охлажденные, 360г"
+url = "https://online.metro-cc.ru/products/360g-frikadelki-blizhnie-gorki-iz-svininy-ohl-lotok"
+source_category = "Мясо, птица"
+source_category_url = "https://online.metro-cc.ru/category/myasnye"
+price_unit = "/шт"
+package = "360г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "314212"
+section = "Мясо и птица"
+group = "Субпродукты"
+name = "Желудки мышечные цыплят-бройлеров Петелинка охлажденные, 450г"
+url = "https://online.metro-cc.ru/products/zheludki-myshechnye-tsyplyat-broylerov-petelinka-ohlazhdennye-450g"
+source_category = "Мясо, птица"
+source_category_url = "https://online.metro-cc.ru/category/myasnye"
+price_unit = "/шт"
+package = "450г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "669849"
+section = "Мясо и птица"
+group = "Фарш"
+name = "Фарш куриный Домоседка замороженный, 900г"
+url = "https://online.metro-cc.ru/products/farsh-kurinyy-domosedka-zamorozhennyy-900g"
+source_category = "Замороженные продукты"
+source_category_url = "https://online.metro-cc.ru/category/zamorozhennye-produkty"
+price_unit = "/шт"
+package = "900г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "106144"
+section = "Напитки"
+group = "Безалкогольные альтернативы"
+name = "Пиво La Costa Fresca светлое безалкогольное, 0.33л"
+url = "https://online.metro-cc.ru/products/033l-pivo-la-costa-fresca-ba-steklo-106144"
+source_category = "Каталог товаров / Алкоголь / Пиво, сидр, коктейли / Безалкогольное пиво / Каталог товаров / Алкоголь / Пиво, сидр, коктейли / Безалкогольное пиво"
+source_category_url = "https://online.metro-cc.ru/category/alkogolnaya-produkciya/pivo-sidr/bezalkogolnoe-pivo"
+price_unit = "/шт"
+package = "0.33л"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "464846"
+section = "Напитки"
+group = "Вода"
+name = "Вода Архыз Vita горная природная негазированная, 1.5л"
+url = "https://online.metro-cc.ru/products/voda-arkhyz-vita-gornaya-prirodnaya-negazirovannaya-1-5l"
+source_category = "Вода, соки, напитки"
+source_category_url = "https://online.metro-cc.ru/category/bezalkogolnye-napitki"
+price_unit = "/шт"
+package = "1.5л"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "206534"
+section = "Напитки"
+group = "Газировка и квас"
+name = "Напиток Chillout Bitter Tonic Грейпфрут сильногазированный, 900мл"
+url = "https://online.metro-cc.ru/products/09l-gaz-nap-chillout-bitter-greypfrut-pet-206534"
+source_category = "Вода, соки, напитки"
+source_category_url = "https://online.metro-cc.ru/category/bezalkogolnye-napitki"
+price_unit = "/шт"
+package = "900мл"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "401799"
+section = "Напитки"
+group = "Кофе и какао"
+name = "Цикорий Целебник порошкообразный, 85г"
+url = "https://online.metro-cc.ru/products/tsikoriy-tselebnik-poroshkoobraznyy-85g-401799"
+source_category = "Чай, кофе, какао"
+source_category_url = "https://online.metro-cc.ru/category/chaj-kofe-kakao"
+price_unit = "/шт"
+package = "85г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "232990"
+section = "Напитки"
+group = "Растительные напитки"
+name = "Напиток растительный кокосовый Planto Barista с соей 1.3%, 1л"
+url = "https://online.metro-cc.ru/products/1l-napitok-kokosovyy-13-planto-barista-s-soey"
+source_category = "Молоко, яйцо, масло"
+source_category_url = "https://online.metro-cc.ru/category/molochnye-prodkuty-syry-i-yayca"
+price_unit = "/шт"
+package = "1л"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "273955"
+section = "Напитки"
+group = "Смузи"
+name = "Смузи J7 киви, банан и манго, 300мл"
+url = "https://online.metro-cc.ru/products/300ml-smuzi-j7-kivi-banan-mango"
+source_category = "Овощи, фрукты, ягоды, зелень, грибы"
+source_category_url = "https://online.metro-cc.ru/category/ovoshchi-i-frukty"
+price_unit = "/шт"
+package = "300мл"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "459118"
+section = "Напитки"
+group = "Соки и нектары"
+name = "Нектар Добрый апельсиновый с мякотью, 1л"
+url = "https://online.metro-cc.ru/products/nektar-dobryy-apelsin-1l-459118"
+source_category = "Вода, соки, напитки"
+source_category_url = "https://online.metro-cc.ru/category/bezalkogolnye-napitki"
+price_unit = "/шт"
+package = "1л"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "390674"
+section = "Напитки"
+group = "Чай"
+name = "Холодный чай черный Lipton со вкусом лимона, 500мл"
+url = "https://online.metro-cc.ru/products/holodnyj-chaj-lipton-limon-05-l"
+source_category = "Вода, соки, напитки"
+source_category_url = "https://online.metro-cc.ru/category/bezalkogolnye-napitki"
+price_unit = "/шт"
+package = "500мл"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "218896"
+section = "Напитки"
+group = "Энергетики"
+name = "Энергетический напиток Volt Energy Голубика-гранат, 450мл"
+url = "https://online.metro-cc.ru/products/045l-en-nap-volt-energy-golubikagranat-zhb-218896"
+source_category = "Вода, соки, напитки"
+source_category_url = "https://online.metro-cc.ru/category/bezalkogolnye-napitki"
+price_unit = "/шт"
+package = "450мл"
+normalized_unit = "руб/л"
+purchase_units = 1
+
+[[items]]
+product_id = "120594"
+section = "Овощи и фрукты"
+group = "Грибы"
+name = "METRO Chef Грибы шампиньоны мини, 250г"
+url = "https://online.metro-cc.ru/products/shampinony-metro-chef-mini-250g"
+source_category = "Овощи, фрукты, ягоды, зелень, грибы"
+source_category_url = "https://online.metro-cc.ru/category/ovoshchi-i-frukty"
+price_unit = "/шт"
+package = "250г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "99055"
+section = "Овощи и фрукты"
+group = "Зелень"
+name = "METRO Chef Петрушка, 70г"
+url = "https://online.metro-cc.ru/products/petrushka-metro-chef-70g"
+source_category = "Овощи, фрукты, ягоды, зелень, грибы"
+source_category_url = "https://online.metro-cc.ru/category/ovoshchi-i-frukty"
+price_unit = "/шт"
+package = "70г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "481701"
+section = "Овощи и фрукты"
+group = "Овощи"
+name = "Морковь мытая"
+url = "https://online.metro-cc.ru/products/morkov-mytaya-vesovaya-1-kg-481701"
+source_category = "Овощи, фрукты, ягоды, зелень, грибы"
+source_category_url = "https://online.metro-cc.ru/category/ovoshchi-i-frukty"
+price_unit = "/кг"
+package = ""
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "470370"
+section = "Овощи и фрукты"
+group = "Фрукты"
+name = "Яблоки Роял Гала"
+url = "https://online.metro-cc.ru/products/yabloki-gala-470370"
+source_category = "Овощи, фрукты, ягоды, зелень, грибы"
+source_category_url = "https://online.metro-cc.ru/category/ovoshchi-i-frukty"
+price_unit = "/кг"
+package = ""
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "115659"
+section = "Овощи и фрукты"
+group = "Ягоды"
+name = "METRO Chef Клубника быстрозамороженная, 300г"
+url = "https://online.metro-cc.ru/products/klubnika-metro-chef-300g"
+source_category = "Замороженные продукты"
+source_category_url = "https://online.metro-cc.ru/category/zamorozhennye-produkty"
+price_unit = "/шт"
+package = "300г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "639525"
+section = "Рыба и морепродукты"
+group = "Икра"
+name = "Икра черная Европром Царская имитированная, 220г"
+url = "https://online.metro-cc.ru/products/evroprom-osobaya-osetr-imitaciya-220g"
+source_category = "Рыба, икра, морепродукты"
+source_category_url = "https://online.metro-cc.ru/category/rybnye"
+price_unit = "/шт"
+package = "220г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "222905"
+section = "Рыба и морепродукты"
+group = "Морепродукты"
+name = "Палочки крабовые Русское море снежный краб охлажденные, 150г"
+url = "https://online.metro-cc.ru/products/150g-palochki-krabovye-russkoe-more-snezhnyy-krab-ohl"
+source_category = "Рыба, икра, морепродукты"
+source_category_url = "https://online.metro-cc.ru/category/rybnye"
+price_unit = "/шт"
+package = "150г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "117714"
+section = "Рыба и морепродукты"
+group = "Прочие рыбные продукты"
+name = "Риет Меридиан из тунца, 100г"
+url = "https://online.metro-cc.ru/products/100g-riet-meridian-iz-tunca-eko"
+source_category = "Рыба, икра, морепродукты"
+source_category_url = "https://online.metro-cc.ru/category/rybnye"
+price_unit = "/шт"
+package = "100г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "208252"
+section = "Рыба и морепродукты"
+group = "Рыба"
+name = "Тунец Пеликан Для салатов в собственном соку, 185г"
+url = "https://online.metro-cc.ru/products/185g-tunets-v-sobstvennom-soku-pelikan-dlya-salatov"
+source_category = "Бакалея, консервация"
+source_category_url = "https://online.metro-cc.ru/category/bakaleya"
+price_unit = "/шт"
+package = "185г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "81133"
+section = "Сладости и перекусы"
+group = "Орехи и семечки"
+name = "METRO Chef Арахис в карамели, 150г"
+url = "https://online.metro-cc.ru/products/arahis-metro-chef-v-karameli-150-g-81133"
+source_category = "Чипсы, снеки, орехи"
+source_category_url = "https://online.metro-cc.ru/category/chipsy-sneki-orehi"
+price_unit = "/шт"
+package = "150г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "456767"
+section = "Сладости и перекусы"
+group = "Печенье и вафли"
+name = "Сушки-мини Семейка Озби с солью, 150г"
+url = "https://online.metro-cc.ru/products/sushki-mini-semeyka-ozbi-s-solyu-150g-456767"
+source_category = "Сладости"
+source_category_url = "https://online.metro-cc.ru/category/sladosti_"
+price_unit = "/шт"
+package = "150г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "120113"
+section = "Сладости и перекусы"
+group = "Прочие сладости и снеки"
+name = "Жевательная резинка Orbit Refreshers тропический микс, 16г"
+url = "https://online.metro-cc.ru/products/orbit-tropik-refreshers16g-120113"
+source_category = "Сладости"
+source_category_url = "https://online.metro-cc.ru/category/sladosti_"
+price_unit = "/шт"
+package = "16г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "367216"
+section = "Сладости и перекусы"
+group = "Снеки"
+name = "Чипсы Midori Нори в кунжутном масле, 5г"
+url = "https://online.metro-cc.ru/products/chipsy-midori-nori-v-kunzhutnom-masle-5g-367216"
+source_category = "Чипсы, снеки, орехи"
+source_category_url = "https://online.metro-cc.ru/category/chipsy-sneki-orehi"
+price_unit = "/шт"
+package = "5г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "287771"
+section = "Сладости и перекусы"
+group = "Шоколад и конфеты"
+name = "Мармелад жевательный Bon Pari Кислые червячки, 75г"
+url = "https://online.metro-cc.ru/products/marmelad-zhevatelnyy-bon-pari-kislyye-chervyachki-75g-287771"
+source_category = "Сладости"
+source_category_url = "https://online.metro-cc.ru/category/sladosti_"
+price_unit = "/шт"
+package = "75г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "293859"
+section = "Хлеб и выпечка"
+group = "Выпечка и торты"
+name = "Торт Коровка вафельный ассорти, 180г"
+url = "https://online.metro-cc.ru/products/tort-korovka-vafelnyy-assorti-180g"
+source_category = "Хлеб, выпечка, торты"
+source_category_url = "https://online.metro-cc.ru/category/hleb-vypechka-torty"
+price_unit = "/шт"
+package = "180г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "279912"
+section = "Хлеб и выпечка"
+group = "Прочая выпечка"
+name = "Fine Life Тесто слоеное бездрожжевое замороженное, 500г"
+url = "https://online.metro-cc.ru/products/fine-life-testo-sloenoe-bezdrozhzhevoe-zamorozhennoe-500g"
+source_category = "Хлеб, выпечка, торты"
+source_category_url = "https://online.metro-cc.ru/category/hleb-vypechka-torty"
+price_unit = "/шт"
+package = "500г"
+normalized_unit = "руб/кг"
+purchase_units = 1
+
+[[items]]
+product_id = "669479"
+section = "Хлеб и выпечка"
+group = "Хлеб и лепёшки"
+name = "Хлебцы Wasa ржаные цельнозерновые, 205г"
+url = "https://online.metro-cc.ru/products/hlebtsy-wasa-original-rzhanye-tselnozernovye-205g"
+source_category = "Хлеб, выпечка, торты"
+source_category_url = "https://online.metro-cc.ru/category/hleb-vypechka-torty"
+price_unit = "/шт"
+package = "205г"
+normalized_unit = "руб/кг"
+purchase_units = 1
